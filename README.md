@@ -1,7 +1,7 @@
 # Home
 This is my root repository where you can easily navigate to my different projects: 
-* [Python codes for climate change large language model fine-tuning research](https://github.com/Joongeun/MIT-Internship-2024)
-* [Python codes and documentation for vaping-cessation research](https://github.com/Joongeun/IUPUI-Internship-2023)
+* [MIT Internship](https://github.com/Joongeun/MIT-Internship-2024) Python codes for climate change large language model fine-tuning research
+* [IUPUI Internship](https://github.com/Joongeun/IUPUI-Internship-2023) Python codes and documentation for vaping-cessation research
 * [Combat robot (The Cheeze Grater)'s design, documentation, and competition vieos](https://github.com/Joongeun/The-Cheeze-Grater-Battlebot)
 * [HTML, CSS, JS codes of my team's Web Development submission (MealGPT) for the 2024 MIT Blueprint Hackathon](https://github.com/Joongeun/2024-MIT-Blueprint-Hackathon-Web-Development)
 * [Arduino code, circuit diagrams, and video of my badminton shuttle-launcher prototype](https://github.com/Joongeun/Badminton-Shuttle-Launcher/tree/main)
