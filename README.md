@@ -8,3 +8,4 @@ This is my root repository where you can easily navigate to my different project
 * [Programming Camp in Nicaragua & Indonesia] [Presentation Files](https://github.com/Joongeun/Nicaragua-Indonesia-Programming-Camps)
 * [SEA Pre-College Summer Program (2024)] [Python codes for final project data extraction + analysis](https://github.com/Joongeun/Argo-Data-Collection-SEA-Summer-Program-2024)
 * [Neuroscience Class] [Python codes for neurophysiology data analysis](https://github.com/Joongeun/Neuroscience-Code)
+* [Resume] (https://docs.google.com/document/d/1blRSRe71AovX8OIvPNdmgtewCJytQ7JGk3UZsTXTbQ0/edit?tab=t.0)
