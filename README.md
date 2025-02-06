@@ -1,5 +1,5 @@
 # Home
-This is my root repository where you can easily navigate to my different projects: 
+Hi my name is Joongeun Choi! This is my root repository where you can easily navigate to my different projects: 
 * [MIT Internship] [Python codes for climate change large language model fine-tuning research](https://github.com/Joongeun/MIT-Internship-2024)
 * [IUPUI Internship] [Python codes and documentation for vaping-cessation research](https://github.com/Joongeun/IUPUI-Internship-2023)
 * [Combat Robot] [The Cheeze Grater's design, documentation, and competition videos](https://github.com/Joongeun/The-Cheeze-Grater-Battlebot)
