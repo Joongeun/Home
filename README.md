@@ -5,6 +5,7 @@ Hi, my name is Joongeun Choi! This is my root repository where you can easily na
 * [Combat Robot] [The Cheeze Grater's design, documentation, and competition videos](https://github.com/Joongeun/The-Cheeze-Grater-Battlebot)
 * [MIT Blueprint Hackathon (2024)] [HTML, CSS, JS codes of my team's Web Development submission (MealGPT)](https://github.com/Joongeun/2024-MIT-Blueprint-Hackathon-Web-Development)
 * [Badminton Shuttle Launcher] [Arduino code, circuit diagrams, and video of prototype](https://github.com/Joongeun/Badminton-Shuttle-Launcher/tree/main)
+* [UC Berkeley Gym Capacity Scraper] [Python code, Github workflow, Data csv](https://github.com/Joongeun/cal_gym_crowd_meter_scraper/tree/main)
 * [Programming Camp in Nicaragua & Indonesia] [Presentation Files](https://github.com/Joongeun/Nicaragua-Indonesia-Programming-Camps)
 * [SEA Pre-College Summer Program (2024)] [Python codes for final project data extraction + analysis](https://github.com/Joongeun/Argo-Data-Collection-SEA-Summer-Program-2024)
 * [Inspirit AI Summer Program (2022)] [Object Detection Model Presentation](https://docs.google.com/presentation/d/1nk4_AQywIDoncPazdxsbwL8wX1iMCgo3iqssLSqCa1k/edit#slide=id.g13acbe574c9_0_1847)
