@@ -1,7 +1,7 @@
 # Home
 Hi, my name is Joongeun Choi! This is my root repository where you can easily navigate to my different projects: 
 * [MIT Internship] [Python codes for climate change large language model fine-tuning research](https://github.com/Joongeun/MIT-Internship-2024)
-* [IUPUI Internship] [Python codes and documentation for vaping-cessation research](https://github.com/Joongeun/IUPUI-Internship-2023)
+* [IUPUI Internship] [Python codes and documentation for vaping-cessation research with machine learning](https://github.com/Joongeun/IUPUI-Internship-2023)
 * [Combat Robot] [The Cheeze Grater's design, documentation, and competition videos](https://github.com/Joongeun/The-Cheeze-Grater-Battlebot)
 * [Badminton Shuttle Launcher] [Arduino code, circuit diagrams, and video of prototype](https://github.com/Joongeun/Badminton-Shuttle-Launcher/tree/main)
 * [MIT Blueprint Hackathon (2024)] [HTML, CSS, JS codes of my team's Web Development submission (MealGPT)](https://github.com/Joongeun/2024-MIT-Blueprint-Hackathon-Web-Development)
