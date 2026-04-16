@@ -6,6 +6,7 @@ Hi, my name is Joongeun (Joon) Choi! This is my root repository where you can ea
 * [IUPUI Internship] [Python codes and documentation for vaping-cessation research with machine learning](https://github.com/Joongeun/IUPUI-Internship-2023)
 * [Combat Robot] [The Cheeze Grater's design, documentation, and competition videos](https://github.com/Joongeun/The-Cheeze-Grater-Battlebot)
 * [Badminton Shuttle Launcher] [Arduino code, circuit diagrams, and video of prototype](https://github.com/Joongeun/Badminton-Shuttle-Launcher/tree/main)
+* [CAD of Goomba Cannon and Carousel] [CAD Assembly](https://cad.onshape.com/documents/66dd23167a2ef96f0e9d8be1/w/43d8fdc068d084c1bc00d13b/e/27e74677138b3e93d76f0f23?renderMode=0&uiState=69e0991d343111b7d4643fd5)
 * [MIT Blueprint Hackathon (2024)] [HTML, CSS, JS codes of my team's Web Development submission (MealGPT)](https://github.com/Joongeun/2024-MIT-Blueprint-Hackathon-Web-Development)
 * [UC Berkeley Gym Capacity Scraper] [Python code, Github workflow, Data csv](https://github.com/Joongeun/cal_gym_crowd_meter_scraper/tree/main)
 * [Programming Camp in Nicaragua & Indonesia] [Presentation Files](https://github.com/Joongeun/Nicaragua-Indonesia-Programming-Camps)
